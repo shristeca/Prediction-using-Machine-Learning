@@ -63,3 +63,7 @@ following the same pattern.
 ##### Note: 
 
 The file path must be changed as required.
+
+### Overview
+
+The roadmap followed for predicting the electricity consumption and the findings have been illustrated using a power point presentation.
